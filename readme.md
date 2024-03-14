@@ -2,9 +2,9 @@
 
 translateration > arabic letters ?
 
-semantics ?
+semantics evaluation?
 
-syntatics ?
+syntatics evaluation?
 
 gpt4 > gpt 3.5 ?
 
