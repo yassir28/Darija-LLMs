@@ -1,0 +1,28 @@
+"You will be provided with a verb in Moroccan Darija language." +
+"Your task is to translate it into English and provide only its lemma as an output." + 
+"The lemma of the translated verb should not contain 'to'."
+
+
+
+
+def translate_verb(arb, latin):
+    completion = client.chat.completions.create(
+        model="gpt-3.5-turbo",
+        messages=[
+            {"role": "system", "content": "You are an expert in Moroccan Darija dialect and in translating Darija to English."},
+            {"role": "user", "content": "Translate the provided Moroccan Darija dialect verb into English using word-by-word translation."+ 
+             "The output must not be an infinitive verb. No explanations are needed in the output"},
+            {"role": "assistant", "content": "OK, I understand. I am ready for the verb translation."},
+            {"role": "user", "content": "شرب / chreb"},
+            {"role": "assistant", "content": "drink"},
+            {"role": "user", "content": "ستدعا / sted3a"},
+            {"role": "assistant", "content": "summon"},
+            {"role": "user", "content": "طفا / tfa"},
+            {"role": "assistant", "content": "turn off"},
+            {"role": "user", "content":  f"{arb} / {latin}" }
+        ],
+        temperature=0.1  # Deterministic responses
+    )
+    return completion.choices[0].message.content
+
+df['transl'] = df.apply(lambda row: translate_verb(row['darija_ar'], row['n1']), axis=1)
