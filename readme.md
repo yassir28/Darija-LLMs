@@ -211,3 +211,7 @@ t test, mil l 3rbia, query working best..
 
 
 # T-test to evaluate, how to know if there is a significant difference
+
+
+
+
