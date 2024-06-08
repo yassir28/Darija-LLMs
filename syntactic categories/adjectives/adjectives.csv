@@ -62,7 +62,6 @@ mrta7,merta7,marta7,,مرتاح,comfortable
 mchghoul,mchghol,mechghoul,machghoul,مشغول,busy
 mchTon,mchToun,mechTon,machToun,مشطون,worried
 m3SSb,m3eSSeb,m3aSSab,m3aSSeb,معصّب,nervous
-mochaghib,mochaaghib,,,مشاغب,troublemaker
 ghDban,ghaDban,gheDban,,غضبان,angry
 mrg,mreg,mrag,,مرڭ,embarrassed
 7chman,7echman,7achman,,حشمان,shy
@@ -93,16 +92,11 @@ ja8il,jaa8il,jahil,,جاهل,ignorant
 3abiT,,,,عبيط,silly
 dki,,,,دكي,smart
 7akim,hakim,,,حكيم,wise
-nabigha,naabigha,,,نابغة,genius
 amine,,,,أمين,trustworthy
-kddab,keddab,kaddab,,كدّاب,liar
-ghddar,gheddar,ghaddar,,غدّار,betrayer
-nSSab,neSSab,naSSab,,نصّاب,swindler
 nyya,nia,nya,,نيّة,naive
 mtfa2l,mtfa2el,motafa2il,,متفاءل,optimistic
 mtcha2m,mtcha2em,motacha2im,,متشاءم,pessimistic
 komik,comic,,,كوميك,funny
-ytim,yatim,itym,ytym,يتيم,orphan
 7amla,hamla,,,حاملة,pregnant
 ijabi,,,,إجابي,positive
 silbi,,,,سلبي,negative
@@ -122,7 +116,6 @@ mn7az,men7az,ma7az,mn7aaz,منحاز,biased
 mo7ayid,mo7aayid,,,محايد,neutral
 waaD7,waaDe7,,,واضح,clear
 mojrim,moujrim,,,مجرم,criminal
-9ttal,9ettal,,,قتّال,murderer
 ghali,,,,غالي,expensive
 rkhiS,,,,رخيص,cheap
 ga3,,,,ڭاع,all
@@ -132,7 +125,7 @@ lkher,,,,لخر,last
 b7al,,,,بحال,same
 sghir,,,,صغير,little
 mghyyer,,,,مغيّر,different
-lli mora,,,,اللي مورا,next
+lli mora,,,,قادم,next
 3aDim,,,,عضيم,great
 ma7lli,ma7alli,,,محلّي,local
 jtima3i,jtimaa3i,,,جتماعي,social
@@ -140,7 +133,6 @@ mo8im,mohim,mohimm,,مهم,important
 waTani,,,,وطني,national
 3aali,3ali,,,عالي,high
 Twil,,,,طويل,long
-ttani,tani,,,التاني,second
 waas3,was3,,,واسع,large
 3aamm,3amm,,,عامّ,general
 momkin,moumkin,,,ممكن,possible
@@ -267,7 +259,6 @@ aamin,2aamin,,,امن,safe
 mo7afiD,mo7aafiD,,,محافض,conservative
 chkli,,,,شكلي,formal
 monasib,,,,مناسب,proper
-bzzaf,,,,بزّاف,very
 9arawi,,,,قروي,rural
 mbda2i,,,,مبدئي,initial
 magaddch,,,,ماقادش,unable
@@ -310,7 +301,6 @@ mDwwi,mDoowi,,,مضوّي,bright
 akhla9i,akhlaa9i,,,أخلاقي,moral
 badil,badiil,,,بديل,alternative
 jddab,,,,جدّاب,attractive
-radd lbal,,,,رادّ لبال,careful
 7ayawi,,,,حيوي,vital
 8amaji,,,,همجي,wild
 khawi,,,,خاوي,empty
@@ -440,14 +430,10 @@ monasib,monaasib,,,مناسب,fit
 7eyy,7ayy,,,حيّ,live
 las9,,,,لاسق,accurate
 mousi9i,mosi9i,,,موسيقي,musical
-fo9 l3ada,faw9 l3ada,fo9 l3aada,,فوق العادة,extraordinary
-khari9 lil3ada,khar9 ll3ada,,,خارق للعادة,extraordinary
 nazih,nazi8,,,نزيه,honest
 d9i9,,,,دقيق,precise
 bayn,,,,باين,visible
 9lil,,,,قليل,slight
-dyal lflous,,,,ديال لفلوس,monetary
-3an bo3d,,,,عن بعد,remote
 Sari7,Sarii7,,,صريح,plain
 b3id,,,,بعيد,distant
 chomour,chomor,,,شومور,unemployed
@@ -455,7 +441,6 @@ mchomer,mchomr,,,مشومر,unemployed
 wagf,,,,واڭف,still
 Drief,Driyef,,,ضريف,gentle
 nefsi,nfsi,,,نفسي,psychological
-SSghir,,,,الصغير,junior
 mles,,,,ملس,smooth
 3anif,3aniif,,,عنيف,violent
 haykali,8aykali,,,هيكلي,structural
@@ -470,7 +455,6 @@ waD7,,,,واضح,evident
 mawsimi,,,,موسمي,occasional
 momti3,,,,ممتع,pleasant
 kawni,,,,كوني,universal
-zamil,,,,زميل,fellow
 klasiki,,,,كلاسيكي,classic
 mossekh,mmossekh,,,موسّخ,dirty
 kaykaafe2,,,,كايكافء,equivalent
@@ -480,14 +464,11 @@ ni8aa2i,,,,نهائي,ultimate
 loghawi,,,,لغوي,linguistic
 taabt,tabt,,,تابت,steady
 fikri,,,,فكري,intellectual
-fa9d l2amal,,,,فاقد لأمل,desperate
 9aDaa2i,,,,قضائي,judicial
 tawri,,,,توري,revolutionary
 imbraTouri,,,,إمبراطوري,imperial
-ghayr 9anoni,ghayr 9aanouni,ghayr 9aanoni,,غير قانوني,illegal
 khaam,,,,خام,raw
 khaariji,khariji,,,خارجي,outer
-ghayr rsmi,,,,غير رسمي,informal
 morr,marr,,,مرّ,bitter
 tjribi,,,,تجريبي,experimental
 jama3i,,,,جماعي,collective
@@ -496,7 +477,6 @@ rou7i,,,,روحي,spiritual
 mcharji,,,,مشارجي,intense
 taarikhi,tarikhi,,,تاريخي,historic
 m39oul,m39ol,,,معقول,rational
-mamnasbch,mamnasebch,,,مامناسبش,inadequate
 7add,,,,حادّ,acute
 mnTi9i,,,,منطقي,logical
 m9bol,,,,مقبول,valid
@@ -549,9 +529,8 @@ r9mi,,,,رقمي,digital
 mod8il,,,,مدهل,spectacular
 3odwani,,,,عدواني,aggressive
 3ryan,,,,عريان,naked
-machi 3aadil,,,,ماشي عادل,unfair
 mtfowwe9,,,,متفوّق,superior
-kolla ch8er,,,,كولّا شهر,monthly
+kolla ch8er,,,,شهري,monthly
 tchri3i,,,,تشريعي,legislative
 iDafi,,,,إضافي,spare
 Sarii7,Sari7,,,صريح,explicit
@@ -614,7 +593,6 @@ joghrafi,,,,جغرافي,geographical
 dinamiki,,,,ديناميكي,dynamic
 mota7rrik,,,,متحرّك,dynamic
 momtaz,,,,ممتاز,super
-ghayr mobachir,,,,غير مباشر,indirect
 tamiin,tamin,,,تمين,precious
 ghali,ghaali,,,غالي,precious
 ml7ouD,,,,ملحوض,notable
@@ -706,7 +684,6 @@ mamofri7ch,,,,ماموفريحش,unpleasant
 ryaDyati,ryaDyaati,,,رياضياتي,mathematical
 difaa3i,difa3i,,,دفاعي,defensive
 mi3maari,mi3mari,,,معماري,architectural
-ghayr monaasib,ghayr monasib,,,غير مناسب,inappropriate
 yadawi,,,,يدوي,manual
 da2iri,daa2iri,,,دائري,circular
 moSirr,,,,مصرّ,persistent
@@ -718,7 +695,6 @@ msmoum,,,,مسموم,toxic
 mo288al,,,,مؤهّل,competent
 mtkaml,mtkaaml,,,متكامل,integral
 mam9yousch,mam9yosch,,,مامقيوسش,intact
-mkhtar,,,,مختار,select
 m3awd,,,,معاود,redundant
 zayd,,,,زايد,redundant
 za3m,za3em,,,زاعم,bold
@@ -756,7 +732,6 @@ mjmo3,mjmou3,,,مجموع,aggregate
 r9i9,,,,رقيق,slim
 Twil,,,,طويل,lengthy
 mozdawij,,,,مزداوج,dual
-machi mawDoo3i,machi mawDo3i,,,ماشي موضوعي,subjective
 ra2i3,,,,رائع,fantastic
 mafrasoch,,,,مافراسوش,unaware
 mawa3ich,,,,ماواعيش,unconscious
@@ -770,8 +745,7 @@ ghali,,,,غالي,costly
 kaariti,kariti,,,كارتي,disastrous
 msta9ll,msta9ell,,,مستاقلّ,autonomous
 automatic,otomatik,,,أوتوماتيك,autonomous
-radd lbal,,,,رادّ لبال,cautious
-dyal ddarra,,,,ديال الذرة,atomic
+dyal ddarra,,,,ذري,atomic
 sirri,,,,سرّي,confidential
 7m9,7me9,,,حمق,foolish
 mlwwen,mlwwn,,,ملوّن,colorful
@@ -792,8 +766,6 @@ kayfrre7,kayfrr7,kayfarra7,,كايفرّح,delightful
 mtchrred,,,,متشرّد,homeless
 chmkar,,,,شمكار,homeless
 gharib,ghariib,,,غريب,weird
-fa2iD,,,,فائض,excess
-zyada,,,,زيادة,excess
 7amimi,7amiimi,,,حميمي,intimate
 8a2il,,,,هائل,formidable
 tdriji,tdriiji,tedriiji,,تدريجي,gradual
@@ -814,17 +786,15 @@ mobtakar,,,,مبتكر,innovative
 mafaa8iimi,,,,مفاهيمي,conceptual
 madani,,,,مدني,civic
 7eyy,,,,حيّ,vivid
-tnna7w,,,,ت النحو,grammatical
 mokhliS,,,,مخلص,faithful
 mtwsseT,mtwesseT,motawssiT,,متوسّط,medium
 tkmili,tkmiili,,,تكميلي,supplementary
 jyoloji,jyolouji,,,جيولوجي,geological
 bnnaa2,bnna2,,,بنّاء,constructive
 kaybni,,,,كايبني,constructive
-ghayr mnTi9i,ghayr manTi9i,,,غير منطقي,unreasonable
 Darori,Darouri,,,ضروري,mandatory
 mchmmech,,,,مشمّش,sunny
-ta3aawoni,,,,تعاوني,co-operative
+ta3aawoni,,,,تعاوني,cooperative
 solouki,soloki,,,سلوكي,behavioral
 mabaghich,,,,ماباغيش,unwilling
 S7i7,,,,صحيح,vigorous
@@ -843,7 +813,6 @@ ni8aa2i,ni8a2i,niha2i,,نهائي,terminal
 3amali,,,,عملي,handy
 mokttaf,,,,مكتّف,dense
 fotoghrafi,,,,فوتوغرافي,photographic
-tlbaladia,,,,ت البلدية,municipal
 mt7mmes,mt7mms,mt7emmes,,متحمّس,passionate
 m7doud,,,,محدود,restrictive
 wa7id,,,,وحيد,lone
@@ -890,7 +859,7 @@ khfif,,,,خفيف,swift
 sri3,,,,سريع,swift
 moSghghara,,,,مصغّرة,miniature
 bzzaf,,,,بزّاف,ample
-machi Tabi3i,,,,ماشي طبيعي,abnormal
+Tabi3i,,,,طبيعي,normal
 3orfi,,,,عرفي,customary
 kayDerr,kaydrr,,,كايضرّ,sore
 mochi33,,,,مشعّ,radioactive
@@ -899,7 +868,6 @@ m9boul,m9bol,,,مقبول,plausible
 9aabil,,,,قابل,prone
 jtima3i,jtimaa3i,,,جتماعي,sociological
 magaddch,,,,ماڭادّش,helpless
-radd lbal,,,,رادّ لبال,wary
 mam3rofch,,,,مامعروفش,unfamiliar
 jira7i,jiraa7i,,,جراحي,surgical
 mo3awin,,,,معاون,supportive
@@ -917,8 +885,7 @@ m3foun,m3fon,,,معفون,rotten
 waa9i3i,wa9i3i,,,واقعي,factual
 3amali,,,,عملي,pragmatic
 pragmati,,,,پراڭماتي,pragmatic
-ghayr morDi,,,,غير مرضي,unsatisfactory
-w9t joz2i,,,,وقت جزئي,part-time
+morDi,,,,مرضي,satisfactory
 mi8ani,,,,مهني,occupational
 marin,,,,مرن,flexible
 mch8or,,,,مشهور,prominent
@@ -935,14 +902,10 @@ droka,drok,,,دروكا,imminent
 D3if,,,,ضعيف,vulnerable
 mobrziT,,,,موبرزيط,rowdy
 frra3,,,,فرّاع,talkative
-mozwwir,,,,مزوّر,falsifier
 mo8jjij,,,,موهجّيج,rowdy
 mo3nfij,,,,موعنفيج,rowdy
 msbiTr,,,,مسبيطر,crazy
 m7chchech,,,,محشّش,drugged
-mSr8eT,mSer8eT,mSer8aT,,مصرهط,scorner
-9walbi,,,,قوالبي,trickster
-bkkay,,,,بكّاي,crybaby
 mokhlwiD,,,,موخلويض,deceitful
 7rayfi,,,,حرايفي,skilled
 7rayfi,,,,حرايفي,adroit
@@ -972,7 +935,6 @@ m7loul,m7lol,me7loul,me7lol,محلول,open
 ghaleT,ghaaleT,,,غالط,wrong
 mbeddel,mbddl,,,مبدّل,different
 S7i7,,,,صحيح,strong
-mwellef,,,,مولّف,used to
 mriguel,,,,مريڭل,cunning
 dayekh,,,,دايخ,dizzy
 mdowwakh,,,,مدوّخ,dizzy
@@ -981,7 +943,6 @@ mrtabT,mrtabeT,mertabeT,mertabT,مرتابط,engaged
 mol8im,molhim,,,ملهم,inspiring
 mchttet,mchettat,mchattet,mchettet,مشتّت,sparse
 3aDim,3aDym,3aDiim,,عضيم,mighty
-boul7ya,bol7ya,boul7ia,bol7ia,بولحية,beardy
 zayd,zaid,,,زايد,extra
 khari9,khaari9,5ari9,kahriq,خارق,miraculous
 stitna2i,istitna2i,stitnaa2i,istitnaa2i,استثنائي,exceptional
@@ -989,6 +950,5 @@ fransawi,fransaoui,,,فرانساوي,french
 sblyoni,sbelioni,sbalioni,,سبليوني,spanish
 mirikani,,,,ميريكاني,american
 chinwi,,,,شينوي,chinese
-3rbi,3arbi,3erbi,3arabi,عربي,arab
 mkhbbi,mkhebbi,mkhabbi,,مخبّي,hidden
 mti99en,mtye99en,mtya99an,mtya99en,متيقّن,sure

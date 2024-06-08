@@ -79,3 +79,12 @@ I wonder if emphasis issues will be resolved with context. (sentences?)
 
  # temperature: What sampling temperature to use, between 0 and 2. Higher values like 0.8 will make the output more random, while lower values like 0.2 will make it more focused and deterministic. We generally recommend altering this or top_p but not both.
 # to be included in report
+
+
+
+
+#User: simulates what a user might say to the model: input from the user in a conversation.
+#Assistant: simulates the model's own responses.
+#System: System messages are used to give instructions or settings that affect the model's behavior. 
+    #These messages can define the context, persona, or specific instructions that the model should follow throughout the interaction.
+ 
