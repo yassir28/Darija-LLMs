@@ -191,3 +191,23 @@ Path similarity is useful in various fields for determining relatedness or simil
 # WordNet only contains "open-class words": 
 nouns, verbs, adjectives, and adverbs. Thus, excluded words include determiners, prepositions, pronouns, conjunctions, and particles.
 
+
+
+# target audiance/ Darija speaker
+Cant be turned to darija speaker cos output is in English. + linguists 
+
+# arabic prompt
+in verbs v2.
+
+# intervals of different semantic similarity
+rewrite everything in these. In the process filter the prompts to most significant base that on:
+
+t test, mil l 3rbia, query working best.. 
+
+# tables of verbs , sentences, idioms : for each prompts in function of columns darija input (arabic prompt and english prompt) and rows prompts.
+
+
+# overlap of different prompts results between prompts.
+
+
+# T-test to evaluate, how to know if there is a significant difference
